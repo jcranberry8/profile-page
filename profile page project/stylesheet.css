@@ -1,0 +1,20 @@
+.heading {
+    display: flex;
+    border: 5px;
+    background-color: black;
+    margin: 30px;
+    padding: 20px;
+    height: fit-content;
+
+    color: darkred;
+    text-align: center;
+}
+
+.hobbies {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: baseline;
+    border: 5px;
+    border-color: darkred;
+
+}
